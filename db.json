@@ -1,1 +1,1 @@
-{ "message": [{ "img": "../img/1.jpg" }, { "img": "../img/2.jpg" }, { "img": "../img/3.jpg" }, { "img": "../img/4.jpg" }] }
+{ "message": [{ "img": "./static/img/1.jpg" }, { "img": "./static/img/2.jpg" }, { "img": "./static/img/3.jpg" }, { "img": "./static/img/4.jpg" }] }
